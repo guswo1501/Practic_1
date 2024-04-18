@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 a
+=======
+abba
+>>>>>>> develop
 =======
 abba
 >>>>>>> develop
